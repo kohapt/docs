@@ -1,0 +1,13 @@
+Definição
+
+Este campo contém o título junto com qualquer outra informação de título e indicações de responsabilidade relativas ao título incluindo de outras línguas (títulos paralelos, declarações paralelas de responsabilidade, etc.) em geral na forma e sequência em que aparecem no documento em tratamento.
+
+Indicadores:
+
+Indicador 1: Assinala de é um titulo significativo na pesquisa
+Usar o valor 1 para referir que o primeiro subcampo $a corresponde a um ponto de acesso.
+Indicador 2: Não é utilizado e fica em branco
+
+Exemplos:
+
+200 – $a Filosofia da ciência$e o jogo e as suas regras$f Rubem Alves
